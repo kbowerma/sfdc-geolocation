@@ -32,42 +32,42 @@
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1538491851514,
-            "changeTime": 1538491851514,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 288,
+            "modifiedTime": 1538501073162,
+            "changeTime": 1538501073162,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1538492032530,
             "changeTime": 1538492032530,
-            "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1538490261892,
             "changeTime": 1538490261892,
-            "isWorkspace": true,
-            "contentHash": "7353f7aa5ce702107442766f484722079d20d3fe"
+            "contentHash": "7353f7aa5ce702107442766f484722079d20d3fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -255,131 +255,222 @@
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1538492032533,
             "changeTime": 1538492032533,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1538492032533,
             "changeTime": 1538492032533,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 155,
             "modifiedTime": 1538492076826,
             "changeTime": 1538492076826,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1538492032531,
             "changeTime": 1538492032531,
-            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24"
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1538492094927,
             "changeTime": 1538492094927,
-            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1538492032533,
             "changeTime": 1538492032533,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1538492032533,
             "changeTime": 1538492032533,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1538492032531,
             "changeTime": 1538492032531,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1538492032532,
             "changeTime": 1538492032532,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1538492032532,
             "changeTime": 1538492032532,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1538501073159,
+            "changeTime": 1538501073159,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4901,
+            "modifiedTime": 1538501073163,
+            "changeTime": 1538501073163,
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4565,
+            "modifiedTime": 1538501073166,
+            "changeTime": 1538501073166,
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17965,
+            "modifiedTime": 1538501073176,
+            "changeTime": 1538501073176,
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4561,
+            "modifiedTime": 1538501073178,
+            "changeTime": 1538501073178,
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538501073159,
+            "changeTime": 1538501073159,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kylebowerman/Documents/mydev/sfdc/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538501073178,
+            "changeTime": 1538501073178,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
